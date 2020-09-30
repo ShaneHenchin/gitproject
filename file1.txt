@@ -1,1 +1,3 @@
-This is my first created using command line prompts.
+This is my first file created using command line prompts.
+
+Updated file for 2nd commit.
